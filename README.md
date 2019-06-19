@@ -1,6 +1,6 @@
 # Me
 
-Front-end developer @ JWorks (Ordina BE) at day, weird dreamer at night.
+Front-end developer @ JWorks (Ordina BE) by day, sleeping by night.
 
 ## Skill set
 
