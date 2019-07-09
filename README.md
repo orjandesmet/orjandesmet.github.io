@@ -2,6 +2,8 @@
 
 Front-end developer @ JWorks (Ordina BE) by day, sleeping by night.
 
+🐦 [@orjandesmet](https://twitter.com/orjandesmet)
+
 ## Skill set
 
 * JavaScript
